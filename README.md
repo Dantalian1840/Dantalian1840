@@ -1,6 +1,6 @@
 <h3> Hi there! 👋 I'm Sergio, a Full Stack Developer, passionate about creating great digital experiences!</h3>
 
-*  I have strong skills in React, Redux, JavaScript, CSS, HTML, SCRUM, Node, Express, PostgreSQL, and Sequelize. I am a native Spanish speaker with a B2 level in English.
+*  I have strong skills in TypeScript, NestJS, React, TailwindCSS, HTML, PostgreSQL. I am a native Spanish speaker with a C1 level in English and N5 in Japanese.
 
 * Web Developer from Bogotá, Colombia 🇨🇴
 
