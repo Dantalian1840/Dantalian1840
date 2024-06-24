@@ -4,8 +4,6 @@
 
 * Web Developer from Bogotá, Colombia 🇨🇴
 
-* 📫 Contact me: sagarzong48@gmail.com
-
 ![](https://komarev.com/ghpvc/?username=Dantalian1840&style=for-the-badge)
 
 ---
@@ -55,5 +53,12 @@
   
 ![Dantalian1840's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dantalian1840&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)</br>
 ![Dantalian1840's Stats](https://github-readme-stats.vercel.app/api?username=Dantalian1840&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)</br>
+</div>
+
+<h2 align="center"> 📫 Contact:</h2>
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarzong48@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagarzon1840)
 </div>
 
