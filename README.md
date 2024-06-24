@@ -5,7 +5,8 @@
 * Web Developer from Bogotá, Colombia 🇨🇴
 
 * 📫 Contact me: sagarzong48@gmail.com
-* ![](https://komarev.com/ghpvc/?username=Dantalian1840&style=for-the-badge)
+
+![](https://komarev.com/ghpvc/?username=Dantalian1840&style=for-the-badge)
 
 ---
 
